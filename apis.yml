@@ -1,23 +1,89 @@
 aid: alertmedia
+
 name: AlertMedia
-description: 'AlertMedia is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.alertmedia.com/wp-content/uploads/2016/05/052616-7MustHaves-EmergencyNotificationSystem.jpg
+
+description: 'AlertMedia offers a unified risk intelligence and response platform that provides mass notification, threat intelligence, travel risk management, employee safety monitoring, incident response, and social intelligence. The platform is designed for organizations that need to protect people and operations across global locations. It delivers real‑time risk visibility, analyst‑verified alerts, and built‑in workflows to coordinate and resolve incidents.'
+
 url: https://raw.githubusercontent.com/api-evangelist/alertmedia/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-24'
+
 modified: '2026-09-24'
+
 tags:
-- Company
-apis: []
+- Mass Notification
+- Threat Intelligence
+- Travel Risk Management
+- Employee Safety Monitoring
+- Incident Response
+- Social Intelligence
+- Risk Intelligence Platform
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/alertmedia-llms.txt
+- type: WellKnown
+  url: well-known/alertmedia-well-known.yml
+- type: Hosts
+  url: hosts/alertmedia-hosts.yml
+- type: Vendors
+  url: vendors/alertmedia-vendors.yml
+- type: TrustCenter
+  url: https://trust.alertmedia.com/
+- type: TermsOfService
+  url: https://www.alertmedia.com/legal/terms-of-service/
+- type: PrivacyPolicy
+  url: https://www.alertmedia.com/legal/privacy-policy/
+- type: Pricing
+  url: https://www.alertmedia.com/pricing/
+- type: Newsroom
+  url: https://www.alertmedia.com/about/news/
+- type: Login
+  url: https://dashboard.alertmedia.com/login
+- type: Leadership
+  url: https://www.alertmedia.com/about/team/
+- type: Blog
+  url: https://www.alertmedia.com/blog/
+- type: Documentation
+  url: https://docs.alertmedia.com/
+- type: DeveloperPortal
+  url: https://docs.alertmedia.com/password
+- type: DomainSecurity
+  url: security/alertmedia-domain-security.yml
 - type: Website
-  url: https://forgeglobal.com/alertmedia_stock/
+  url: https://www.alertmedia.com/
+
+apis: []
+
+x-coverage:
+  state: gated
+  reason: partner-login
+  method: derived
+  generated: '2026-09-24'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company serves an API surface but requires credentials before any description of it can be read
+  evidence: https://api.alertmedia.com/mcp
+x-enrichment:
+  date: '2026-09-24'
+  status: enriched
+  artifacts_added: 17
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

@@ -1,0 +1,49 @@
+# AlertMedia
+
+> AlertMedia is a unified risk intelligence and response platform that helps organizations keep their people safe, informed, and connected before, during, and after critical events. It brings together real-time, analyst-verified risk intelligence, mass notification, employee safety monitoring, travel risk management, social media intelligence, and incident management and response in one system.
+
+## Start here
+
+- [AlertMedia](https://www.alertmedia.com/): Overview of AlertMedia's unified risk intelligence and response platform.
+- [Platform Overview](https://www.alertmedia.com/platform/): How AlertMedia connects risk intelligence, emergency communication, analytics, and response workflows.
+
+## Platform capabilities
+
+- [Real-Time Signals](https://www.alertmedia.com/platform/real-time-signals/): AI-powered monitoring that helps teams surface potential threats faster.
+- [Visual Intelligence](https://www.alertmedia.com/platform/visual-intelligence/): Geospatial context, visual data, and risk information for faster analysis and response.
+- [Analytics](https://www.alertmedia.com/platform/analytics/): Reporting for notification delivery, engagement, reach, and response performance.
+- [AI Assistant](https://www.alertmedia.com/platform/ai-assistant/): AI-assisted message drafting, translation, and communication support during critical events.
+
+## Products
+
+- [Mass Notification System](https://www.alertmedia.com/products/emergency-mass-notification/): Send multichannel emergency notifications and confirm whether recipients are safe.
+- [Risk Intelligence](https://www.alertmedia.com/products/threat-intelligence-and-warnings/): Monitor relevant threats with real-time intelligence supported by expert analysts.
+- [Lone Worker Safety Monitoring](https://www.alertmedia.com/products/employee-safety-monitoring/): Help protect lone, remote, and field workers with location-aware monitoring and emergency support.
+- [Travel Risk Management](https://www.alertmedia.com/products/travel-risk-management/): Monitor traveler locations and risks so teams can respond quickly to disruptions.
+- [Social Media Intelligence](https://www.alertmedia.com/products/social-media-intelligence/): Identify emerging threats through social media and open-source intelligence.
+- [Incident Management and Response](https://www.alertmedia.com/products/incident-management/): Coordinate response plans, tasks, stakeholders, and communications during incidents.
+
+## Solutions and audiences
+
+- [Solutions](https://www.alertmedia.com/solutions/): Use cases for employee safety, emergency preparedness, business continuity, security, and operations.
+- [Who We Serve](https://www.alertmedia.com/who-we-serve/): Industries and organizational teams that use AlertMedia.
+- [Why AlertMedia](https://www.alertmedia.com/why-alertmedia/): Platform differentiators, customer value, and reasons organizations choose AlertMedia.
+
+## Evaluate AlertMedia
+
+- [Pricing](https://www.alertmedia.com/pricing/): Information about AlertMedia pricing and plans.
+- [Request a Demo](https://www.alertmedia.com/demo-full-platform/): Request a guided demonstration of the full AlertMedia platform.
+- [Virtual Product Tour](https://www.alertmedia.com/platform-virtual-product-tour/): Explore AlertMedia through a self-guided interactive product tour.
+- [How to Evaluate Emergency Mass Notification Vendors](https://www.alertmedia.com/blog/how-to-evaluate-emergency-mass-notification-vendors/): Criteria and questions for comparing emergency notification providers.
+
+## Key buyer resources
+
+- [Best Mass Notification Systems for 2026](https://www.alertmedia.com/mass-notification-systems/): Comparison guide to leading mass notification systems and selection criteria.
+- [AlertMedia vs. Everbridge](https://www.alertmedia.com/blog/alertmedia-vs-everbridge-emergency-mass-notification/): Comparison of AlertMedia and Everbridge for emergency mass notification.
+- [How to Implement Mass Notification Software](https://www.alertmedia.com/how-to-implement-mass-notification-software-for-crisis-management/): Practical guidance for implementing mass notification software in crisis management programs.
+
+## Company and trust
+
+- [About AlertMedia](https://www.alertmedia.com/about/): AlertMedia's company, mission, and leadership.
+- [Trust Center](https://trust.alertmedia.com/): Security, privacy, compliance, and data-handling information.
+- [Contact AlertMedia](https://www.alertmedia.com/contact/): Contact sales or send a general inquiry.

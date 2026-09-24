@@ -1,0 +1,1 @@
+{"resource":"https://dashboard.alertmedia.com/mcp","scopes_supported":["read","write"],"authorization_servers":["https://auth.alertmedia.com"],"bearer_methods_supported":["header"],"resource_metadata_url":"https://dashboard.alertmedia.com/.well-known/oauth-protected-resource"}
