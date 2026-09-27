@@ -72,15 +72,6 @@ common:
 
 apis: []
 
-x-coverage:
-  state: gated
-  reason: partner-login
-  method: derived
-  generated: '2026-09-24'
-  generator: derive-coverage.py (pre-flight evidence)
-  detail: >-
-    the company serves an API surface but requires credentials before any description of it can be read
-  evidence: https://api.alertmedia.com/mcp
 x-enrichment:
   date: '2026-09-24'
   status: enriched
